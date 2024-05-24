@@ -1,0 +1,4 @@
+{
+    "number_of_news_per_source":10,
+    "news_json_file_name":"news.json"
+}

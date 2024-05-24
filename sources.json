@@ -1,0 +1,17 @@
+[
+    {
+        "tag":"rtrs",
+        "description":"RTRS",
+        "address":"https://www.rtrs.tv/vijesti/rss.php"
+    },
+  {
+    "tag": "naslovi",
+    "description": "NASLOVI",
+    "address": "https://naslovi.net/rss/"
+  },
+  {
+    "tag": "vesti",
+    "description": "vesti",
+    "address": "https://www.vesti-online.com/feed/"
+  }
+] 
